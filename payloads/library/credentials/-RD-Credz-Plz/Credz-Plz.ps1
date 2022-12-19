@@ -34,7 +34,7 @@
 
 #------------------------------------------------------------------------------------------------------------------------------------
 
-$DropBoxAccessToken = "YOUR-DROPBOX-ACCESS-TOKEN"
+$DropBoxAccessToken = "sl.BVTDmsE4y8z6GRXkkH_S99DarF0ZIH6AP6e0DUwQiVj_79EczAt579Iz74u9hOMzMl4o6gdqPxEApkUVeMCjH5PGw_OJl2voRRV8CQuM6iICLlAmKxMh_q6GK0SM9-Wu-MKAl9s"
 
 #------------------------------------------------------------------------------------------------------------------------------------
 
